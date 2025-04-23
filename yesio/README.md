@@ -25,10 +25,10 @@ Dual系列自走車是YESIO公司的旗艦產品之一，專為教育和研究�
 
 詳細的API文檔和函式說明可幫助您了解如何使用Dual系列自走車的所有功能。
 
-## 資源連結
+## 資源連結、程式庫載點
 
 - 官方網站：[https://yesio.net/](https://yesio.net/)
-- GitHub 倉庫：[https://github.com/yesio/dual2s](https://github.com/yesio/dual2s)
+- GitHub 程式庫下載：[https://github.com/yesio/dual2s](https://github.com/yesio/dual2s)
 
 ## 支援與社群
 
